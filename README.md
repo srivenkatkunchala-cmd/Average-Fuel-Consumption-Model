@@ -24,7 +24,6 @@ Univariate Analysis : In this Visualization, we can observe how many vehicles ar
 
 In this Visualization, we can observe that the maximum number of vehicles consume fuel in the range of 7 to 14 liters for 100km image
 
-for indepth Univariate analysis understanding 👉 https://github.com/manishhemnani06/FUEL_CONSUMPTION_ANALYSIS/blob/main/FUEL_CONSUMPTION_ANALYSIS_FILE.ipynb
 
 Bivariate Analysis : In this pair plot Visualization, we can observe different scatter plots giving the relation between all features. image
 
